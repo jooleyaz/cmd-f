@@ -10,7 +10,6 @@ function Home() {
         navigate('/board'); 
       };
     return(
-
         <header className="App-header">
 
             <p>
